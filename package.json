@@ -1,0 +1,21 @@
+{
+  "name": "project-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongoose": "^8.11.0",
+    "nanoid": "^3.3.8",
+    "nodemon": "^3.1.9",
+    "path": "^0.12.7",
+    "shortid": "^2.2.17"
+  }
+}
