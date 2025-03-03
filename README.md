@@ -1,6 +1,5 @@
-# URL-Shortener
+# URL Shortener with Click Tracking
 
-URL Shortener with Click Tracking
 A simple URL shortener built with Node.js, Express, and shortid. This application generates a unique short URL for a given long URL and tracks the number of clicks on the shortened URL.
 
 Features :
